@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+
+# iCulus local data (encrypted SQLite database + master key)
+server/data/
